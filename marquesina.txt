@@ -1,0 +1,7 @@
+<html>
+<body background="Fondop.jpg">
+</body>
+<marquee bgcolor="#E4B9ED" behavior="alternate" direction="right">
+<b><font face="Courier" font color="#300539 " size="5">DESASTRES NATURALES</font></b>
+</marquee>
+</html>
